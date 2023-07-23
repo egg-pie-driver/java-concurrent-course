@@ -1,5 +1,4 @@
-# java-concurrent-course
-## Table of Contents
+# Java并发编程实战
 
 - [01-可见性、原子性和有序性问题：并发编程Bug的源头](01-可见性、原子性和有序性问题：并发编程Bug的源头.md)
 
